@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Research Papers and what not
+/EDA
+/Research-Papers
+/rmd-Papers
+/Summaries
