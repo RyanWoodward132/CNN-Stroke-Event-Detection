@@ -1,2 +1,0 @@
-# Processing
-Data processing has to be done by hand for the pilot data. This is because event data for each swim is stored across multiple .csv's and needs to be synced manually since the timing of each is unique to each swimmer.
